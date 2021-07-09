@@ -24,7 +24,7 @@ print(numbers) // prints ["1", "2", "3", “4”, "5"]
 numbers.insert("13", at: 0)
 // ["13", "1", "2", "3", “4”, “5”]
 
-//Empty Array
+//Empty Array Initilization
 var arrayOfNumbers: [Int] = []
 //Empty Dictionary
 var namesOfIntegers: [Int: String] = [:]
