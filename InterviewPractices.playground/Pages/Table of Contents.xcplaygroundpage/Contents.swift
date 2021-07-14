@@ -9,7 +9,12 @@ Hope you find it useful!
 
 ### 1. Arrays and Strings
 - [BoilDownToO(N)](BoilDownToO(N))
- 
+### 2. Fundamentals of Collection Types
+- [Fundamentals of Collection Types](Fundamentals of Collection Types)
+### 3. Contains Duplicate
+ - [Contains Duplicate](Contains Duplicate)
+ ### 4. Valid Anagram
+  - [Valid Anagram](Valid Anagram)
  */
 
  /*:

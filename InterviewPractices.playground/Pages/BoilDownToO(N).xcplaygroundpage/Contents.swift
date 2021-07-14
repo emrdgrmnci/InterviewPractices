@@ -26,7 +26,7 @@
 //                //   Time                         Space
 //Hash Map -     // O(N) + O(N) = O(2N) -> O(N)     O(N)
 
-func commonItemsBruteForce(_ A: [Int], _ B: [Int]) -> Bool {
+func commonItemsHashMap(_ A: [Int], _ B: [Int]) -> Bool {
 
     //Still looping...but not nested - O(2n) vs O(n^2)
     var hashA = [Int: Bool]()
@@ -43,6 +43,6 @@ func commonItemsBruteForce(_ A: [Int], _ B: [Int]) -> Bool {
     return false
 }
 
-commonItemsBruteForce([1, 2, 3], [3, 5, 6])
+commonItemsHashMap([1, 2, 3], [3, 5, 6])
 
 //: [Next](@next)

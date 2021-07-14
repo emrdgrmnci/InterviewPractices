@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 
 /*:
- # 1. Fundamentals of Collection Types
+ # 2. Fundamentals of Collection Types
 
  Array, Set and Dictionary are collection types in Swift. And, you can see basic examples about them below.
  */

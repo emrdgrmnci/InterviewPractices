@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='BoilDownToO(N)'/>
-        <page name='Untitled Page'/>
         <page name='Table of Contents'/>
+        <page name='BoilDownToO(N)'/>
         <page name='FundamentalsOfCollectionTypes'/>
         <page name='Contains Duplicate'/>
+        <page name='Valid Anagram'/>
+        <page name='Valid Palindrome'/>
     </pages>
 </playground>
