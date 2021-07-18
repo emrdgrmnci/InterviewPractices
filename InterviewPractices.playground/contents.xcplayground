@@ -4,8 +4,10 @@
         <page name='Table of Contents'/>
         <page name='BoilDownToO(N)'/>
         <page name='FundamentalsOfCollectionTypes'/>
-        <page name='Contains Duplicate'/>
-        <page name='Valid Anagram'/>
-        <page name='Valid Palindrome'/>
+        <page name='ContainsDuplicate'/>
+        <page name='ValidAnagram'/>
+        <page name='ValidPalindrome'/>
+        <page name='WeakCollections'/>
+        <page name='NSPointerArray'/>
     </pages>
 </playground>
